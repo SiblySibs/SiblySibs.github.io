@@ -10,7 +10,7 @@
 </header>
 <body>
 <div id="container">
-<h1>The Game of Game of Thrones!</h1>
+<h2>The Game of Game of Thrones!</h2>
 <div id="image"></div>
 <div id="imagesource"></div>
 <div id="ccontent">
