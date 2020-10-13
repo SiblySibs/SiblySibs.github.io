@@ -168,23 +168,3 @@ var initFight = function(pickedC) {
 var again = function() {
 	location.reload();
 }
-
-
-
-// Reflection
-
-// Wow! This is the most challenging and best solo challenge I have ever done. I have spent the has four days making this! And I have learned so much! And finally I feel it's done! (thanks god!)
-// There are so many obtacles and challenges into the making of this, so much that I can't even remember all of them. I started by wanting to learn how to integrate my javascript with html and css. So I went online and took a online course on in through codeacademy.
-// This definitely gave the necessary knowledge to make this. Second, there are so many integrated parts that has to function one after another to make it works. And I have never, in my life,
-// done something like so. I didn't know how to structure my code. I didn't know to make it flow. There were so many I-don't-knows that I have to over and over again I would have to look up google, stackoverflow and w3school. I have never really refactored and/or debugged so hard in my life. There are so many first times
-// in this project. All in all, I glad I did this. I have accomplish way beyond the learning competency in this assignment. And I actually enjoy making this really funny game. haha. If you haven't try it you should!
-
-// However, I do not think this would pass as "good" programming. I kind of feel like writing program is like writing an essay. My essay works but there is still redendant, run-on sentences, structural inefficiency which I still yet to
-// fix. So this is just a start and I am willing to learn and improve more and more both culturally and technically in this field.
-
-// http://cloudusa.files.wordpress.com/2012/09/psy2-copy.jpg
-// http://www.youtube.com/watch?v=efQUSgJTMZc
-// http://www.w3schools.com/js/js_strings.asp
-// http://www.codecademy.com/courses/html-javascript-css/
-// http://www.w3schools.com/tags/att_input_type.asp
-// http://www.bellaonline.com/articles/art22573.asp
