@@ -4,9 +4,7 @@
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <header>
-	<!-- <nav>
-		<a href="../index.html">Back to My Page</a>
-	</nav> -->
+
 </header>
 <body>
 <div id="container">
@@ -27,8 +25,6 @@
 <div id="playagain"></div>
 </div> <!-- container -->
 </body>
-<!-- <footer>
-	<p>&copy; Copyrights Supakorn Laohasongkram 2014</p>
-</footer> -->
+
 <script type="text/javascript" src="my_solution.js"></script>
 </html>
