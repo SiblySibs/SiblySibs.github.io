@@ -69,7 +69,7 @@ var c1 = function() {
 	document.getElementById("cdes").innerHTML += '<ul>Description: ' + eval(pickedC + ".description") + '</ul>';
 	document.getElementById("cdes").innerHTML += '<h4>Battle Ability<h4>'
 	document.getElementById("cdes").innerHTML += "<ul>Health points " + eval(pickedC + ".hp") + "</ul>";
-	document.getElementById("cdes").innerHTML += "<ul>Attack points per round from 4 to  " + eval(pickedC + ".attack" + "4") + " damage.";
+	document.getElementById("cdes").innerHTML += "<ul>Attack points per round from 4 to  " + eval(pickedC + ".attack + 4") + " damage.";
 	document.getElementById("cdes").innerHTML += "<ul>The enemy has a 1 out of " + eval(pickedC + '.dodge') + " chance to attack.";
 	document.getElementById("cdes").innerHTML += '<input type="button" value="Ok I picked this champion. Let\'s go." onClick="initFight()"/';
 	if (pickedC === 'harry') { document.getElementById("cdes").innerHTML += "<ul>*Harry has a 1 out of 4 chance to attack himself."; };
